@@ -1,7 +1,7 @@
 {
     "id": "bloodDrop-DnD5e",
     "esmodules": [
-        "scipts/bloodDrop.js"
+        "scripts/bloodDrop.js"
     ],
     "title": "Blood Drop for DnD5e",
     "version": "1.0.0",
@@ -9,3 +9,5 @@
         "minimum": "12",
         "verified": "13"
     },
+
+{
