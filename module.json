@@ -1,5 +1,5 @@
 {
-    "id": "bloodDrop-dnd5e",
+    "id": "bloodDrop-DnD5e",
     "esmodules": [
         "scipts/bloodDrop.js"
     ],
