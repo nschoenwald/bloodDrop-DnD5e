@@ -4,7 +4,7 @@
         "scipts/bloodDrop.js"
     ],
     "title": "Blood Drop for DnD5e",
-    "version": "2025-04-04",
+    "version": "1.0.0",
     "compatibility": {
         "minimum": "12",
         "verified": "13"
