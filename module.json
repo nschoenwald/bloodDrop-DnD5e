@@ -4,11 +4,11 @@
         "scripts/bloodDrop.js"
     ],
     "title": "Blood Drop for DnD5e",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "12",
         "verified": "13"
     },
 "manifest": "https://github.com/nschoenwald/bloodDrop-DnD5e/releases/latest/download/module.json",
-"download": "https://github.com/nschoenwald/bloodDrop-DnD5e/releases/download/1.0.0/module.zip",
+"download": "https://github.com/nschoenwald/bloodDrop-DnD5e/releases/download/1.0.1/module.zip"
 }
